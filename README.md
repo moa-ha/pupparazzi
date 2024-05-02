@@ -1,7 +1,7 @@
 # Pupparazzi
 
-Pupparazz is a pet diary to manage and edit profiles of dogs.
-This was my first app using full-stack.
+Pupparazz is a pet diary to manage and edit profiles of dogs.<br>
+This was my first app using Express & JSON API's.
 
 ## Setup
 
@@ -13,7 +13,6 @@ This was my first app using full-stack.
   npm install
   npm run dev
   ```
-
 
 ### Demo
 ![DreamFest](./reference-imgs/pupparazzi.gif)
